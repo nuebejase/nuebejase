@@ -37,7 +37,5 @@ I'm Jase Karl, an incoming 3rd year IT student 👨🏻‍💻 from Philippines.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuebejase&theme=material-palenight"/>
 </a>
 
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=nuebejase&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
