@@ -1,4 +1,4 @@
-<h1><img src="[[https://slackmojis.com/emojis/3643-cool-doge/](https://slackmojis.com/emojis/3643-cool-doge/download)](https://github.com/nuebejase/nuebejase/blob/main/cool-doge.gif)" width="30"/> Hey, Nice to see you.</h1>
+<h1><img src="https://github.com/nuebejase/nuebejase/blob/main/cool-doge.gif" width="30"/> Hey, Nice to see you.</h1>
 
 I'm Jase Karl, an incoming 3rd year IT student 👨🏻‍💻 from Philippines. 
 
