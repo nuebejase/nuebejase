@@ -2,7 +2,7 @@
 
 I'm Jase Karl, an incoming 3rd year IT student 👨🏻‍💻 from Philippines. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jase+Karl%C3%B1as%2C+21+years+old;a+student+who's+driven+by+curiosity+and+passion+for+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jase+Karl+21+years+old;a+student+who's+driven+by+curiosity+and+passion+for+tech)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-jasekarlzerrudo@gmail.com-red)](mailto:jasekarlzerrudo@gmail.com)
  <img src="https://komarev.com/ghpvc/?username=your-github-nuebejase&style=flat-square" alt="Jase Karl" /> 
