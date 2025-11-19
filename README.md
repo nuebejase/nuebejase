@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/nuebejase/nuebejase/blob/main/cool-doge.gif" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Jase Karl, an incoming 3rd year IT student 👨🏻‍💻 from Philippines. 
+I'm Jase Karl, an 3rd year IT student 👨🏻‍💻 from Philippines. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Jase+Karl+21+years+old;a+student+who's+driven+by+curiosity+and+passion+for+tech)](https://git.io/typing-svg)
 
